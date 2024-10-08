@@ -1,28 +1,28 @@
 const chatbots = [
     {
-        nome: "Nome",
-        descricao: "Transforme sua paixão pelo futebol com FutebolGenius, seu assistente inteligente que traz análises, estatísticas e dicas para elevar seu conhecimento sobre Futebol!!!",
-        link: "https://google-ia-vagner.vercel.app/" 
+        nome: "BombaChat",
+        descricao: "Está cansado de ser só mais um frango sentado na frente do computador? Pois o BombaChat tem a solução, para você entrar em forma e adquirir o shape dos sonhos.",
+        link: "https://chiquedogs.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "É um chatbot especializado em tecnologia com o intuito ajudar em programação, auxiliando desde a criação de sites e aplicativos web até o desenvolvimento de softwares para desktop e mobile.",
-        link: "https://google-ai-studio-ten.vercel.app/" 
+        nome: "IA Atendente do Netflix",
+        descricao: "Uma inteligência artificial que atua como atendente da Netflix, ajudando os usuários a encontrar filmes e séries com base em seus gêneros favoritos, fornecendo recomendações personalizadas e uma experiência satisfatória.",
+        link: "https://atendentenetflix.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Descubra receitas, dicas e truques para criar delícias irresistíveis. Pergunte sobre ingredientes, técnicas ou curiosidades e transforme-se no confeiteiro que sempre sonhou ser!",
-        link: "https://aula-nuvens.vercel.app/" 
+        nome: "História Viva",
+        descricao: "Descubra os eventos históricos mais marcantes com respostas claras, atualizadas e cheias de simpatia. Tudo o que você precisa saber em um só lugar.",
+        link: "https://minhaia.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "A IA atua como um amigo, permitindo que você desabafe, oferecendo orientações para aumentar sua autoconfiança, ajudar a lidar com estresse, superar as inseguranças dos adolescentes e sugerir busca por apoio profissional.",
-        link: "https://scintillating-entremet-bf3f05.netlify.app/ia" 
+        nome: "IAza | Assistente Literário Virtual",
+        descricao: "Tenha o seu guia personalizado de leitura com recomendações das melhores obras literárias, adaptadas ao seu gosto e estilo de leitura! 🔖❤️",
+        link: "https://ialiterario.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Este é um Chatbot sobre o cenário automotivo atual, basta perguntar que ele o responderá sobre os mais diversos assuntos do automobilismo 🏎️🏎️🏍️🏍️🚀🚀✈️🏁🏁",
-        link: "chatgpt4-orcin-nine.vercel.app" 
+        nome: "Chat-bot - 🌟 Conheça o ChatBot! 🤖 🌟",
+        descricao: "Precisando de ajuda 24/7? O ChatBot está aqui para você! Respostas rápidas, informações precisas e uma conversa descontraída na palma da sua mão. Seja para tirar dúvidas, fazer reservas ou até desabafar, nosso bot é seu companheiro ideal.       🤖 Simples, rápido e sempre disponível! Experimente agora e transforme sua experiência digital! 💬✨",
+        link: "https://chatmong2-0.vercel.app/" 
     },
     {
         nome: "Nome",
