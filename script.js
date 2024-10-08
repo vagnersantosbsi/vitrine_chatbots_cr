@@ -2,7 +2,7 @@ const chatbots = [
     {
         nome: "BombaChat",
         descricao: "Está cansado de ser só mais um frango sentado na frente do computador? Pois o BombaChat tem a solução, para você entrar em forma e adquirir o shape dos sonhos.",
-        link: "https://chiquedogs.netlify.app/" 
+        link: "https://personaltreiner.netlify.app/" 
     },
     {
         nome: "IA Atendente do Netflix",
@@ -35,19 +35,19 @@ const chatbots = [
         link: "https://namoradavirtual.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "O chat bot  é um software baseado em uma Inteligência Artificial criado para responder perguntas, fornecer explicação medica e ajudar os usuarios, facilitando a vida atraves de uma conversa por texto em tempo.",
-        link: "  https://gemili.vercel.app/" 
+        nome: "Api Metal",
+        descricao: "A Api Metal, é o chatbot metaleiro feito para o publico do rock e tb pra quem não é mas tem interesse  nesse meio, sendo muito útil e informativo e muito bom pra quem não tem amigos metalieiros e quer aprender sobre sobre o mundo do rock.        ",
+        link: "https://api-metal-felipe-stelzers-projects.vercel.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Descubra um assistente inteligente que organiza suas tarefas, otimiza seu tempo e encontra promoções imperdíveis. Transforme sua rotina e alcance seus objetivos de forma rápida e eficiente!",
-        link: "https://geminivs.vercel.app" 
+        nome: "Técnico em Conversação Técnica",
+        descricao: "O chat bot consiste em um técnico em informática que conversa em linguagem muito elaborada e técnica, o objetivo é ajudar com tecnologia ",
+        link: "https://chat-tiajuda.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Conheça o Tigrão das Invests, seu especialista em investimentos e apostas! Ele oferece análises, dicas e estratégias personalizadas, ajudando você a maximizar ganhos e a tomar decisões inteligentes no mundo financeiro.",
-        link: "https://servicos-nuvem.vercel.app/" 
+        nome: "Capitão Chatbot",
+        descricao: "Seu guia inteligente nas águas do conhecimento! Navegue com sabedoria e descubra tesouros escondidos. Clique e comece esta aventura!",
+        link: "https://pirata-ia-git-main-wendelprojects.vercel.app/" 
     },
     {
         nome: "Nome",
