@@ -25,14 +25,14 @@ const chatbots = [
         link: "https://chatmong2-0.vercel.app/" 
     },
     {
-        nome: "Nome",
-        descricao: " O ConectaBot de acordo com a sua pergunta oferece respostas rápidas e personalizadas, o que garante que você encontre exatamente o que precisa. Ele faz a diferença em sua experiência!",
-        link: "https://2309mongo.vercel.app/" 
+        nome: "Coach AI",
+        descricao: " O seu assistente virtual que atua como um coach pode desenvolver seu método DISC  e etc.",
+        link: "https://coachai.netlify.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Este chatbot é projetado para fornecer informações sobre condições neurológicas, sintomas e tratamentos.",
-        link: "https://charming-medovik-c08e3d.netlify.app/" 
+        nome: "Namorada Virtual",
+        descricao: "Para você encalhado que se treme quando vai falar com mulher, esse é o chat bot perfeito, uma conversa informal de whatsapp com sua nova namorada ❤",
+        link: "https://namoradavirtual.netlify.app/" 
     },
     {
         nome: "Nome",
