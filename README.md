@@ -1,1 +1,1 @@
-# vitrine_chatbots_cr
+# vitrine_chatbots
