@@ -50,9 +50,9 @@ const chatbots = [
         link: "https://pirata-ia-git-main-wendelprojects.vercel.app/" 
     },
     {
-        nome: "Nome",
-        descricao: "Para todos os fãs de jogos digitais, ou jogos classicos! Teste o chatbot que te leva para os espaço dos games 🎮 e o mundo dos jogos 🪐",
-        link: "https://chatbot-vagner.vercel.app/" 
+        nome: "Chat Chef IA",
+        descricao: "Aquele que te ajudará com qualquer duvida na cozinha e qualquer receita que você queira experimentar.",
+        link: "https://mongodb-usuario-chatia.onrender.com/" 
     },
     {
         nome: "Nome",
