@@ -81,6 +81,24 @@ chatbots.forEach(chatbot => {
         <a href="${chatbot.link}" target="_blank">Acessar Chatbot</a>
     `;
 
+    // card.innerHTML = `
+    //     <div class="card">
+    //         <div class="align">
+    //             <span class="red"></span>
+    //             <span class="yellow"></span>
+    //             <span class="green"></span>
+    //         </div>
+
+    //         <h1>${chatbot.nome}</h1>
+    //         <p>
+    //             ${chatbot.descricao}
+    //         </p>
+    //         <a href="${chatbot.link}" target="_blank">Acessar Chatbot</a>
+    //     </div>
+     
+        
+    // `;
+   
     chatbotContainer.appendChild(card);
 });
 
