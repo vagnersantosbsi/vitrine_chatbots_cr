@@ -61,6 +61,20 @@ h1 {
     background-color: #0056b3;
 }
 
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: fixed; /* Fixa o footer na parte inferior da tela */
+    bottom: 0; /* Posiciona o footer na parte inferior da tela */
+    width: 100%; /* Faz o footer ocupar a largura da tela */
+}
+
+footer p {
+    margin: 5px 0; /* Ajuste o espaçamento entre os parágrafos do footer */
+}
+
 /* Responsividade (para telas menores) */
 @media (max-width: 768px) {
     .chatbot-card {
