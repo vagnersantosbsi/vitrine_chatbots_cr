@@ -54,16 +54,16 @@ const chatbots = [
         descricao: "Aquele que te ajudará com qualquer duvida na cozinha e qualquer receita que você queira experimentar.",
         link: "https://mongodb-usuario-chatia.onrender.com/" 
     },
-    {
-        nome: "Nome",
-        descricao: "Descrição .",
-        link: "https://vitrine-chatbots.vercel.app/" 
-    },
-    {
-        nome: "Nome",
-        descricao: "Descrição .",
-        link: "https://vitrine-chatbots.vercel.app/" 
-    }
+   // {
+   //     nome: "Nome",
+    //    descricao: "Descrição .",
+    //    link: "https://vitrine-chatbots.vercel.app/" 
+    //},
+    //{
+    //    nome: "Nome",
+    //    descricao: "Descrição .",
+    //    link: "https://vitrine-chatbots.vercel.app/" 
+   // }
     // Adicione os dados de outros chatbots aqui...
 ];
 
