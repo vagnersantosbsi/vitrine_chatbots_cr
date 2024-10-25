@@ -37,7 +37,7 @@ const chatbots = [
     {
         nome: "Api Metal",
         descricao: "A Api Metal, é o chatbot metaleiro feito para o publico do rock e tb pra quem não é mas tem interesse  nesse meio, sendo muito útil e informativo e muito bom pra quem não tem amigos metalieiros e quer aprender sobre sobre o mundo do rock.        ",
-        link: "https://api-metal-felipe-stelzers-projects.vercel.app/" 
+        link: "https://api-metal.vercel.app/" 
     },
     {
         nome: "Técnico em Conversação Técnica",
